@@ -9,3 +9,5 @@ ex) git commit / git commit -m "메세지..."
 push: 원갹저장소에 올리는 명령어
 pull: 원격저장소에 올리는 명령어
 status: 현 폴더에 git과의 상태를 보는 명령어
+
+# 김부자
